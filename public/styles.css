@@ -26,7 +26,7 @@
   --signal-ink: #057a55;
   --signal-soft: #e6f8f0;
   --signal-border: #b4e8d1;
-  --signal-grad: linear-gradient(180deg, #16c98c 0%, #0ea372 100%);
+  --signal-grad: linear-gradient(180deg, #F500E4 0%, #A801FD 100%);
   --signal-glow: 0 1px 2px rgba(5,80,55,.18), 0 10px 24px -8px rgba(16,185,129,.5);
 
   /* semantic */
@@ -87,7 +87,7 @@
   --signal-ink: #5fe6bd;
   --signal-soft: #0f2a23;
   --signal-border: #1d4a3c;
-  --signal-grad: linear-gradient(180deg, #1ad497 0%, #0fb07c 100%);
+  --signal-grad: linear-gradient(180deg, #F500E4 0%, #A801FD 100%);
   --signal-glow: 0 0 0 1px rgba(24,207,148,.18), 0 12px 30px -8px rgba(16,185,129,.45);
 
   --ok: #18cf94; --ok-soft: #0f2a23; --ok-ink: #5fe6bd; --ok-border: #1d4a3c;
