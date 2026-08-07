@@ -13,7 +13,7 @@
   var soundOn = false;
   try { soundOn = localStorage.getItem("hub_sound") === "1"; } catch (e) {}
 
-  var YT_URL = "https://www.youtube.com/channel/UCrPbAoQKz42Gm0mLdWatAEA";
+  var YT_URL = "https://www.youtube.com/@maisdigitalbr";
   var ZP_URL = "https://maisdigitalbr.com/smartzap/";
   var TABS = ["overview", "events", "channels", "apps", "config", "guide", "evidence"];
 

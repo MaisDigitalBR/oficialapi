@@ -138,7 +138,7 @@ function renderResultPage(res: Response, ok: boolean, lang: string, titleKey: st
   <a class="back" href="/">${htmlEscape(back)}</a>
 </div>
 <div class="promo-foot">
-  <a href="https://www.youtube.com/channel/UCrPbAoQKz42Gm0mLdWatAEA" target="_blank" rel="noopener">${htmlEscape(footer)}</a> · <a href="https://maisdigitalbr.com/smartzap/" target="_blank" rel="noopener">${htmlEscape(know)}</a>
+  <a href="https://www.youtube.com/@maisdigitalbr" target="_blank" rel="noopener">${htmlEscape(footer)}</a> · <a href="https://maisdigitalbr.com/smartzap/" target="_blank" rel="noopener">${htmlEscape(know)}</a>
 </div>
 <script>
   try { if (window.opener) { window.opener.postMessage({ type: 'hub:connected', ok: ${ok ? "true" : "false"} }, window.location.origin); setTimeout(function(){ window.close(); }, 2500); } } catch(e){}

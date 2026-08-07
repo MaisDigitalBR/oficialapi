@@ -147,4 +147,4 @@ sua versão.
 
 ---
 
-Projeto de código aberto oferecido pela **[Mais digital](https://www.youtube.com/channel/UCrPbAoQKz42Gm0mLdWatAEA)**. Conheça o **[Smartzap](https://maisdigitalbr.com/smartzap)**.
+Projeto de código aberto oferecido pela **[Mais digital](https://www.youtube.com/@maisdigitalbr)**. Conheça o **[Smartzap](https://maisdigitalbr.com/smartzap)**.
