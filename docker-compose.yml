@@ -23,7 +23,7 @@ services:
     environment:
       - PORT=3300
     ports:
-      - "${HOST_PORT:-3300}:3300"
+      - "127.0.0.1:3300:3300"
 
     # Persistência dos arquivos JSON (apps/canais/eventos/settings).
     volumes:

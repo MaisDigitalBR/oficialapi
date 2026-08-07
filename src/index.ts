@@ -886,7 +886,7 @@ app.use("/api", (_req: Request, res: Response) => res.status(404).json({ error: 
 
 seedAppFromEnvIfEmpty(() => newId().slice(0, 10));
 
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
   console.log(`\n  ${getBrand()} — oauth-hub (multi-app)`);
   console.log(`  listening on :${PORT}`);
   console.log(`  public url:  ${PUBLIC_URL}`);
